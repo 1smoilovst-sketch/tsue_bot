@@ -10,7 +10,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "8491736671:AAFqWQmAspwS07dKZvpyuClgN7EhoQzxFgw"
+BOT_TOKEN = "BOT_TOKEN"
 ADMIN_URL = "https://t.me/J0shqin"
 
 bot = Bot(token=BOT_TOKEN)
